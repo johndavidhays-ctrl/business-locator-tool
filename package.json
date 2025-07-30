@@ -1,0 +1,6 @@
+{
+  "name": "business-locator-tool",
+  "dependencies": {
+    "react": "latest"
+  }
+}
